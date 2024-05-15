@@ -21,3 +21,9 @@ div.alg-stry h3, div.alg-stry h4 {
 div.alg-stry span#algo {
     color: #005562;
 }
+
+div.alg-stry span#mtk {
+    color: #1a34a5;
+    font-style: italic;
+    font-weight: bold;
+}
