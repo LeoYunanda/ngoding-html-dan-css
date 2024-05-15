@@ -1,0 +1,23 @@
+*, html {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #437b80;
+    font-size: 17px;
+}
+
+div.alg-stry {
+    margin: 10px 20px 0px;
+    font-family: "Comic Neue", cursive;
+}
+
+div.alg-stry h3, div.alg-stry h4 {
+    text-align: center;
+}
+
+div.alg-stry span#algo {
+    color: #005562;
+}
