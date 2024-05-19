@@ -1,0 +1,63 @@
+*, html {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Comic Neue", cursive;
+    font-size: 1.5vw;
+    background-color: #f6f0a0;
+}
+
+div.creat-we, div.tpk-mnrik {
+    margin: 30px;
+}
+
+/* .creat-we */
+div.creat-we h3 {
+    text-align: center;
+}
+
+div.creat-we p {
+    margin: 5px 0px;
+}
+
+/* table .ppcrte-web */
+
+table.ppcrte-web {
+    width: 75%;
+    margin: 0% auto;
+    font-size: 1.4vw;
+    border-collapse: collapse;
+    table-layout: auto;
+    background-color: #efe89b;
+}
+
+table.ppcrte-web tr td {
+    width: 50%;
+}
+
+table.ppcrte-web tr td, table.ppcrte-web tr th {
+    padding: 5px;
+}
+
+table.ppcrte-web tr th:nth-child(1), table.ppcrte-web tr td:nth-child(1) {
+    border-right: 1px dashed #d2cd89;
+} 
+
+
+/*  .tpk-mnrik, .insp-tpik */
+
+ul.insp-tpik {
+    list-style: "\221A " inside;
+    margin-left: 5px;
+}
+
+ul.insp-tpik li {
+    margin-top: 5px;
+}
+
+ul.insp-tpik li span#mcm_topik {
+    font-weight: 900;
+}
