@@ -1,0 +1,47 @@
+*, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Comic Neue", cursive;
+    font-size: 1.5vw;
+    margin: 1%;
+}
+
+h3#titleWeb {
+    text-align: center;
+}
+
+ol.impo-extension {
+    list-style: '\221A' inside;
+    margin-left: 1.5%;
+}
+
+table.chrome-extension {
+    display: table;
+    table-layout: auto;
+    border-collapse: collapse;
+    width: 60%;
+    margin: 3% auto;
+    background-color: #FFEC42;
+}
+
+table.chrome-extension th, table.chrome-extension td {
+    width: 50%;
+    padding: 2%;
+    border: 2px dashed #CA8787;
+    text-align: center;
+}
+
+table.chrome-extension td a {
+    text-decoration: none;
+    color: #000000;
+}
+
+table.chrome-extension td a:hover {
+    cursor: pointer;
+    font-weight: 900;
+}
+
