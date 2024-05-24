@@ -1,0 +1,53 @@
+*, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Comic Neue", cursive;
+    font-size: 1.5vw;
+    margin: 1%;
+}
+
+h3#titleJuniorProgrammer {
+    color: #31363F;
+    text-align: center;
+}
+
+figure.junior-ilustration {
+    text-align: center;
+    margin: 10px;
+}
+
+figure.junior-ilustration img {
+    width: 50%;
+    height: auto;
+    margin-left: 2%;
+}
+
+figure.junior-ilustration figcaption {
+    font-weight: bold;
+    text-align: center;
+}
+
+div.about-junior {
+    margin-top: 10px;
+}
+
+p#cont-about-junior1, p#cont-about-junior2 {
+    margin: 5px 0px;
+}
+
+p#cont-about-junior3 {
+    text-indent: 20px;
+}
+
+span#wordKey {
+    font-weight: 900;
+}
+
+span#markImpo {
+    color: #028391;
+    font-weight: 900;
+}
